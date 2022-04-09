@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - entry point 
+ * main - entry point
  *
  * Return: Always (Success)
  */
 int main(void)
-{  
-char c;  
+{
+char c;
 for (c = 'z'; c >= 'a'; c--)
-{      
-putchar(c);      
-}  
-putchar('\n');  
-return (0); 
+{
+putchar(c);
+}
+putchar('\n');
+return (0);
 }
