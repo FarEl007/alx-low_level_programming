@@ -17,7 +17,7 @@ if (l % 2 != 0)
 {
 len++;
 }
-for (i = 0; i < l; i++
+ for (i = 0; i < l; i++)
 {
 if (i >= len)
 _putchar(*(str + i));
